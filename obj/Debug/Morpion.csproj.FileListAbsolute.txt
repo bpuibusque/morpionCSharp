@@ -1,0 +1,11 @@
+C:\Users\bapti\source\repos\Morpion\bin\Debug\Morpion.exe.config
+C:\Users\bapti\source\repos\Morpion\bin\Debug\Morpion.exe
+C:\Users\bapti\source\repos\Morpion\bin\Debug\Morpion.pdb
+C:\Users\bapti\source\repos\Morpion\obj\Debug\Morpion.csproj.AssemblyReference.cache
+C:\Users\bapti\source\repos\Morpion\obj\Debug\Morpion.csproj.SuggestedBindingRedirects.cache
+C:\Users\bapti\source\repos\Morpion\obj\Debug\Morpion.Form1.resources
+C:\Users\bapti\source\repos\Morpion\obj\Debug\Morpion.Properties.Resources.resources
+C:\Users\bapti\source\repos\Morpion\obj\Debug\Morpion.csproj.GenerateResource.cache
+C:\Users\bapti\source\repos\Morpion\obj\Debug\Morpion.csproj.CoreCompileInputs.cache
+C:\Users\bapti\source\repos\Morpion\obj\Debug\Morpion.exe
+C:\Users\bapti\source\repos\Morpion\obj\Debug\Morpion.pdb
